@@ -1,0 +1,3 @@
+# imgdisp
+
+Read Netpbm images from the standard input and display them in a X window.
